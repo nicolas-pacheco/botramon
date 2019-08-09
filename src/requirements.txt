@@ -1,0 +1,8 @@
+selenium
+pandas
+shutil
+datetime
+json
+requests
+beautifulsoup4
+os
